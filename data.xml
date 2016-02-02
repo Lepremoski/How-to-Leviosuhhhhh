@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<All>         
+        <task>
+              <question>Who said it best?</question>
+              <option>Proffessor Snape</option>
+              <option>Ronald Weazley</option>
+              <option>Your mum</option>
+			  <answer>Your mum</answer>
+        </task>         
+        <task>
+              <question>Country of Origin</question>
+              <option>England</option>
+              <option>China</option>
+              <option>Australia</option>
+			  <answer>China</answer>
+        </task>         
+        <task>
+              <question>Why is this important?</question>
+              <option>Puppies</option>
+              <option>Kittens</option>
+              <option>Stool</option>
+			  <answer>Puppies</answer>
+        </task> 
+		<task>
+              <question>Are you a wizard?</question>
+              <option>Yes</option>
+              <option>Not sure</option>
+              <option>Am I a what?</option>
+			  <answer>Am I a what?</answer>
+        </task>
+		<task>
+              <question>Are you the chosen one Harry?</question>
+              <option>Definitely</option>
+              <option>I'm not Harry</option>
+              <option>Who's Harry?</option>
+			  <answer>Who's harry?</answer>
+        </task>          
+</All>
